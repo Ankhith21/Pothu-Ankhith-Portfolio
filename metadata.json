@@ -1,0 +1,6 @@
+{
+  "name": "Pothu Ankhith Portfolio",
+  "description": "Interactive personal portfolio website for Pothu Ankhith, MS Computer Science graduate, Cloud & AI enthusiast.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
